@@ -1,0 +1,33 @@
+.imageofcat {
+    width: 500px;
+    height: auto;
+    margin-top: 20px;
+}
+
+body {
+    margin-left: 30px;
+}
+
+.title {
+    margin-top: 20px;
+}
+
+td,
+th {
+    margin-right: 30px;
+    padding-right: 30px;
+}
+
+.scheduleTable {
+    padding: 0px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+a.link {
+    /* text-decoration: none; */
+    color: #2980b9;
+}
