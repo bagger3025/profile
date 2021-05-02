@@ -28,6 +28,6 @@ p {
 }
 
 a.link {
-    /* text-decoration: none; */
+    text-decoration: none;
     color: #2980b9;
 }
